@@ -1,6 +1,6 @@
 baseurl = "/"
 publishDir = "docs"
-title = "superbeef150"
+title = "superbeef150 - blog"
 copyright = "Copyright (c) 2017, all rights reserved."
 canonifyurls = true
 languageCode = "en-US"
