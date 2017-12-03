@@ -24,7 +24,7 @@ Some specific ways I've followed these guidelines:
 * I do something I enjoy for a living.
 * I use my skills to help others do things they really need help with.
 * I help others who I feel deserve it most. Friends and family who've helped me over the years, people who can't help themselves.
-* I do other things I enjoy when I'm not working
+* I do other things I enjoy when I'm not working.
 
 I am lucky to have found a job doing software engineering. It makes sense to me and I really enjoy it. I am even more lucky that I get to this for a company that helps disabled people. I thought it would be neat when I first started, but after doing it for a little while I have found that the feeling I get is pretty significantly understated by the word 'neat'.
 
