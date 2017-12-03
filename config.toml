@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "blog/"
 publishDir = "docs"
 title = "superbeef150 - blog"
 copyright = "Copyright (c) 2017, all rights reserved."
