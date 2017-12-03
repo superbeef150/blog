@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on superbeef150 - blog</title>
-    <link>blog/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on superbeef150 - blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, all rights reserved.</copyright>
     <lastBuildDate>Sat, 02 Dec 2017 23:00:54 -0500</lastBuildDate>
     
-	<atom:link href="blog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life is short</title>
-      <link>blog/post/life-is-short/</link>
+      <link>/post/life-is-short/</link>
       <pubDate>Sat, 02 Dec 2017 23:00:54 -0500</pubDate>
       
-      <guid>blog/post/life-is-short/</guid>
+      <guid>/post/life-is-short/</guid>
       <description>Probably not the first time you&amp;rsquo;ve heard it, but have you spent much time thinking about what that really means? In general? For you specifically?
 Having gone through some rough times, I have taken a lot of time to reflect upon all of the above. What is it all about? Why am I here?
 There are countless theories about why we are all here, and I have no intention of (dis)crediting any of them.</description>
